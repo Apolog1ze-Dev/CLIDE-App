@@ -28,7 +28,8 @@ A release lists only the files that exist for it.
 - **macOS:** open the downloaded file and drag CLIDE into Applications.
 - **Windows:** run the downloaded installer.
 - **Linux:** install the `.deb` on Debian or Ubuntu. Elsewhere, make the AppImage executable
-  (`chmod +x CLIDE-linux-x86_64.AppImage`) and run it.
+  (`chmod +x CLIDE-linux-x86_64.AppImage`) and run it. The first time it runs it adds CLIDE to
+  your applications, so afterwards you can find it by searching for it like any other app.
 
 Your system may warn you the first time you open it. On Windows choose *More info*, then *Run
 anyway*. On macOS open System Settings, then Privacy & Security, and choose *Open Anyway*.
